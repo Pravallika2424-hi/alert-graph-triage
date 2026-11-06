@@ -16,3 +16,7 @@ An undirected Union-Find graph groups related alerts into incidents. Directed de
 ## Resume description
 
 Implemented an infrastructure alert grouping and root-cause triage demo using Union-Find and directed dependency traversal in Python.
+
+## Source
+Imported from https://github.com/gurijalachaitanya483-web/alert-graph-triage.
+
